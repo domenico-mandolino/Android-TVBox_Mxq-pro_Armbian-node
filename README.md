@@ -4,6 +4,8 @@ Ce dépôt documente la transformation d’un boîtier TV Android MXQ Pro, basé
 
 À l’origine conçu pour exécuter Android TV, ce type de matériel est aujourd’hui largement obsolète pour son usage initial. L’objectif de ce projet est de revaloriser ce boîtier en l’intégrant dans une infrastructure personnelle orientée services réseau, en particulier comme futur point d’accès VPN.
 
+---
+
 ## Ce dépôt s’inscrit dans une démarche pédagogique et pratique, visant à :
 
 - comprendre les contraintes des architectures ARM low-cost,
@@ -15,6 +17,8 @@ Ce dépôt documente la transformation d’un boîtier TV Android MXQ Pro, basé
 - documenter un processus technique de bout en bout.
 
 Le système retenu est Armbian (Debian Bookworm), choisi pour sa stabilité, sa compatibilité avec les usages serveur et sa cohérence avec le reste du homelab (notamment un serveur Proxmox documenté dans un dépôt séparé).
+
+---
 
 ## Le projet couvre :
 
@@ -34,6 +38,8 @@ L’ensemble du travail présenté ici correspond à un retour d’expérience c
 Les captures d’écran, photos du matériel et étapes détaillées sont regroupées dans un document PDF complémentaire, publié séparément.
 
 Ce dépôt constitue la première étape d’un projet plus large.
+
+--- 
 
 # TV Box → Linux Node  Sécurisation de l’accès SSH (UFW, Fail2ban)
 
